@@ -47,7 +47,7 @@ My First shot at AR.
 
 20. Drag and drop the test.fbx inside image target gameobject. Now you should be able to see Sonic standing on the note. Adjust the scale in Transforms. My Transform parameters are as follows.
 
-    ![MyTransforms](Transforms.png)
+    ![MyTransforms](Transforms.PNG)
 
 21. Now you can try it out. Go ahead and click the "Play" button on top and put a 500 Rupee note in front of your webcam.
 
