@@ -1,5 +1,5 @@
 # MyFirstARApp
-My First shot at AR.
+My First shot at AR. Take the app, point it at a currency note (500rs), and see Sonic walk all over it.
 
 ## Steps to build this app
 
