@@ -1,6 +1,6 @@
 # MyFirstARApp
 My First shot at AR. Take the app, point it at a currency note (500rs), and see Sonic walk all over it.
-
+You can also move it around, change the size of the character etc... 
 ## Steps to build this app
 
 1. Download Unity (https://unity3d.com/).
